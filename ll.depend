@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1578153972 source:c:\users\cosmin\onedrive\desktop\ll\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<fstream>
+
